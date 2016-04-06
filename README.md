@@ -1,1 +1,1 @@
-# integratedmoodledesign.v01.p01
+Social Interactive Media design, utlizing Cluster formatting in Moodle, implementing student evidence-based, and student centered, learning perspectives to facilitate learning from Higher Education and Deep Learning origins # integratedmoodledesign.v01.p01
